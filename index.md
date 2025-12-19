@@ -94,6 +94,15 @@ Conceptualised and delivered iECHO Wrapped — a personalised, year-end product 
 
 ---
 
+## Concept Case Study
+
+### Transparent Job Discovery & Referral Platform  
+A privacy-first product concept addressing fragmented job discovery, referral opacity, and hiring accountability.
+
+[Read case study →](case-studies/job-discovery.md)
+
+---
+
 ## Key Learnings
 - Analytics adoption depends on interpretability, not just data availability
 - Beta is critical when introducing new product behaviour
